@@ -1,0 +1,35 @@
+{
+  "name": "mcp-facebook-posts-scraper",
+  "displayName": "Facebook Posts Scraper",
+  "version": "1.0.0",
+  "description": "MCP server for Facebook Posts Scraper: posts from public Facebook Pages as rows.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-facebook-posts-scraper",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "facebook",
+    "posts",
+    "pages",
+    "social-media",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "facebook",
+    "posts",
+    "pages",
+    "social-media",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "mcpServers": ".mcp.json"
+}
