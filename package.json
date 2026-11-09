@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-facebook-posts-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Facebook Posts Scraper: posts from public Facebook Pages as rows.",
   "type": "module",
   "bin": {
