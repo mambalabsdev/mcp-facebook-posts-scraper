@@ -1,7 +1,7 @@
 {
   "name": "mcp-facebook-posts-scraper",
   "displayName": "Facebook Posts Scraper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Facebook Posts Scraper: posts from public Facebook Pages as rows.",
   "author": {
     "name": "Mamba Labs",
